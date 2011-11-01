@@ -1,3 +1,7 @@
-##Snippet-runner
+Snippet-runner
 
-A very simple JavaScript snippet runner.
+This is here just to try out GitHub.
+
+
+A very simple JavaScript snippet runner with MooTools Core & More included (1.4.1 uncompressed w\ compatibility)
+There's also a PHP file included so you don't need to change the source everytime you want to try another snippet.
